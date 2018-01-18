@@ -1,0 +1,2 @@
+Tombol yang digunakan untuk kontrol objek :
+W, S, Arrow Key
